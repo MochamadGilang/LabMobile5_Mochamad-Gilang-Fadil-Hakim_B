@@ -1,3 +1,12 @@
+Nama : Mochamad Gilang Fadil Hakim
+
+NIM : H1D022082
+
+Shift Baru: B
+
+Penjelasan source code 
+
+
 ## Screenshot
 ![Halaman Registrasi](registrasi5.png)
 ![inputlogin](inputlogin5.png)
