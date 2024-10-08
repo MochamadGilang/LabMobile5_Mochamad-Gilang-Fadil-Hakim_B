@@ -1,4 +1,4 @@
-## BIKIN REPO BARU BIAR GAMPANG MAS GA GANTI" FILE HEHE
+## BIKIN REPOSITORY BARU BIAR GAMPANG MAS GA GANTI" FILE HEHE
 
 Nama : Mochamad Gilang Fadil Hakim
 
@@ -70,8 +70,6 @@ Penjelasan source code
     Update: Pengguna dapat mengubah data produk yang sudah ada.
 
     Delete: Pengguna dapat menghapus produk yang tidak diperlukan.
-
-Proses CRUD ini berjalan melalui REST API yang terhubung ke database di server, dengan logika pemrosesan pada bagian bloc yang memisahkan antara UI dan logika bisnis.
 
 ## Screenshot
 ![Halaman Registrasi](registrasi5.png)
