@@ -64,8 +64,11 @@ Penjelasan source code
 4. Kesimpulan Alur CRUD Produk
 
     Create: Pengguna dapat menambah produk baru melalui form. Data disimpan di server menggunakan API.
+
     Read: Data produk diambil dari server dan ditampilkan dalam list.
+
     Update: Pengguna dapat mengubah data produk yang sudah ada.
+
     Delete: Pengguna dapat menghapus produk yang tidak diperlukan.
 
 Proses CRUD ini berjalan melalui REST API yang terhubung ke database di server, dengan logika pemrosesan pada bagian bloc yang memisahkan antara UI dan logika bisnis.
