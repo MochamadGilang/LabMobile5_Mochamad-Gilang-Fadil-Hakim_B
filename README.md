@@ -1,3 +1,5 @@
+## BIKIN REPO BARU BIAR GAMPANG MAS GA GANT" FILE HEHE
+
 Nama : Mochamad Gilang Fadil Hakim
 
 NIM : H1D022082
